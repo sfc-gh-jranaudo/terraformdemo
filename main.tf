@@ -20,5 +20,5 @@ provider "snowflake" {
 
 resource "snowflake_database" "wtw_demo_db" {
   name    = "WTW_DEMO_DB"
-  comment = "Database for Snowflake Terraform demo"
+  comment = "Database for Snowflake Terraform demo test2"
 }
